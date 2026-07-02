@@ -89,7 +89,7 @@ El programa está organizado en los siguientes componentes:
 4. Ejecutar el siguiente comando:
 
 ```bash
-python main.py
+python Passgenerator.py
 ```
 
 ---
